@@ -1,4 +1,4 @@
-# An Enhanced Deep-Learning-Based Approach for Automatic Gradation Analysis of Rockfill Materials
+# An Enhanced Deep-Learning-Based Approach for Automatic Gradation Analysis of Granular Materials
 
 ## Research Paper
 
