@@ -35,3 +35,13 @@ We utilized the following approaches and tools:
 If you find our research paper relevant and wish to cite it, please use the following format:
 
 (To be provided later)
+
+## References
+
+The following open-source libraries were used in this research:
+
+1. **Segment Anything Model (SAM)** - Facebook Research. Available at: [https://github.com/facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything)
+2. **PaddleDetection** - PaddlePaddle. Available at: [https://github.com/PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection)
+3. **YOLOv5** - Ultralytics. Available at: [https://github.com/ultralytics/yolov5](https://github.com/ultralytics/yolov5)
+4. **Ultralytics YOLOv8** - Ultralytics. Available at: [https://github.com/ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
+5. **Catboost** - Catboost. Available at: [https://github.com/catboost/catboost](https://github.com/catboost/catboost)
